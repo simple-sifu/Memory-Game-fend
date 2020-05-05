@@ -5,19 +5,6 @@ let cards = [...card];
 // deck of all cards in game
 const deck = document.getElementById('card-deck');
 
-// declaring move variable
-// let moves = 0;
-// const counter = document.querySelector('.moves');
-
-// declare variables for star icons
-// const stars = document.querySelectorAll('.fa-star');
-
-// declaring variable of matchedCards
-const matchedCard = document.getElementsByClassName('match');
-
-// stars list
-// let starsList = document.querySelectorAll('.stars li');
-
 // close icon in modal
 const closeicon = document.querySelector('.close');
 
